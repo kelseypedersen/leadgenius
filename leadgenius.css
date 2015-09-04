@@ -1,0 +1,18 @@
+.calculator-header {
+  color: white;
+  background-color: #128C95;
+  padding: 5em;
+  text-align: center;
+}
+
+.calculator-description {
+  padding: 3em;
+}
+
+.calculator {
+
+}
+
+.button {
+  background-color: red;
+}
